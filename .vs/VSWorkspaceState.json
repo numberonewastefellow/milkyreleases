@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\s"
   ],
+  "SelectedNode": "\\s",
   "PreviewInSolutionExplorer": false
 }
